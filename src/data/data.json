@@ -1,0 +1,124 @@
+{
+    "groups":[
+        {
+            "name":"Food App",
+            "link":"food-app",
+            "front-image":"/assets/cat.jpg",
+            "members":[
+                {
+                    "name":"Daniel Lewis",
+                    "email":"dan@gmail.com",
+                    "linkedin":"linkedin url",
+                    "xing":"xing url",
+                    "github":"github url",
+                    "profile-image":"/assets/cat2.jpg"
+                },
+                {
+                    "name":"Rania",
+                    "email":"rania@gmail.com",
+                    "linkedin":"linkedin url",
+                    "xing":"xing url",
+                    "github":"github url",
+                    "profile-image":"/assets/cat2.jpg"
+                },
+                {
+                    "name":"Mahdieh",
+                    "email":"mahdie@gmail.com",
+                    "linkedin":"linkedin url",
+                    "xing":"xing url",
+                    "github":"github url",
+                    "profile-image":"/assets/cat2.jpg"
+                }
+            ],
+            "pageImages":[
+                "/assets/cat.jpg",
+                "/assets/cat2.jpg",
+                "/assets/cat3.jpg",
+                "/assets/cat4.jpg"
+            ]
+        },
+        {
+            "name":"EstefiMakeUp",
+            "link":"estefimakeup",
+            "front-image":"/assets/cat.jpg",
+            "members":[
+                {
+                    "name":"Maria Waleska",
+                    "email":"waleska@gmail.com",
+                    "linkedin":"linkedin url",
+                    "xing":"xing url",
+                    "github":"github url",
+                    "profile-image":"/assets/cat2.jpg"
+                }
+            ],
+            "pageImages":[
+                "/assets/cat3.jpg",
+                "/assets/cat4.jpg"
+            ]
+        },
+        {
+            "name":"Scount",
+            "link":"scount",
+            "front-image":"/assets/cat.jpg",
+            "members":[
+                {
+                    "name":"Wisam",
+                    "email":"wisam@gmail.com",
+                    "linkedin":"linkedin url",
+                    "xing":"xing url",
+                    "github":"github url",
+                    "profile-image":"/assets/cat2.jpg"
+                },
+                {
+                    "name":"Ahmad Suleiman",
+                    "email":"suleiman@gmail.com",
+                    "linkedin":"linkedin url",
+                    "xing":"xing url",
+                    "github":"github url",
+                    "profile-image":"/assets/cat2.jpg"
+                },
+                {
+                    "name":"Ahmad Nahalawi",
+                    "email":"nahalawi@gmail.com",
+                    "linkedin":"linkedin url",
+                    "xing":"xing url",
+                    "github":"github url",
+                    "profile-image":"/assets/cat2.jpg"
+                }
+            ],
+            "pageImages":[
+                "/assets/cat.jpg",
+                "/assets/cat2.jpg",
+                "/assets/cat3.jpg",
+                "/assets/cat4.jpg"
+            ]
+        },
+        {
+            "name":"Event organization",
+            "link":"event-org",
+            "front-image":"/assets/cat.jpg",
+            "members":[
+                {
+                    "name":"Romal",
+                    "email":"romal@gmail.com",
+                    "linkedin":"linkedin url",
+                    "xing":"xing url",
+                    "github":"github url",
+                    "profile-image":"/assets/cat2.jpg"
+                },
+                {
+                    "name":"Amit",
+                    "email":"amit@gmail.com",
+                    "linkedin":"linkedin url",
+                    "xing":"xing url",
+                    "profile-image":"/assets/cat2.jpg"
+                }
+            ],
+            "pageImages":[
+                "/assets/cat.jpg",
+                "/assets/cat3.jpg",
+                "/assets/cat4.jpg"
+            ]
+        }
+    ]
+}

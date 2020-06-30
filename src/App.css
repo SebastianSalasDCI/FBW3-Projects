@@ -1,0 +1,76 @@
+/* If you are editing this. First I'm sorry for the name of the classes
+   Could have been better... Hope doesn't give you much headache */
+
+.main {
+  padding-top: 10px;
+  display: block;
+  position: relative;
+}
+
+.main::after {
+  content: "";
+  background: url("./img/dci.png");
+  background-repeat: no-repeat;
+  opacity: 0.5;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;   
+}
+
+.navlink{
+  color: white;
+}
+
+.linkActive{
+  font-weight: bold;
+}
+
+.navItem{
+  margin: 0 10px;
+}
+
+.homeImg{
+  width: 100%;
+  height: auto;
+  border-radius:2%;
+}
+
+.cardClass{
+  margin: 10px;
+}
+
+.projectTitle{
+  margin-top: 10px;
+  color: gray;
+  font-weight: bold;
+}
+
+.projectTitle:hover {
+  color: black;
+}
+
+.cardHeader{
+  /* text-align: center; */
+  color: black;
+  font-weight: bold;
+}
+
+.titleCont{
+  margin-top: 20px;
+  color: gray;
+  text-align: center;
+
+}
+
+.profImg{
+  width: 100%;
+  height: auto;
+}
+
+.titleSection{
+  margin-top: 10px;
+  font-weight: bold;
+}
