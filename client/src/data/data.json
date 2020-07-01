@@ -3,35 +3,35 @@
         {
             "name":"Food App",
             "link":"food-app",
-            "front-image":"/assets/g1/wp1.jpg",
+            "front-image":"/assets/g1/wp1.png",
             "members":[
                 {
-                    "name":"Daniel Lewis",
+                    "name":"Dan Lewis",
                     "email":"dan@gmail.com",
-                    "linkedin":"https://www.linkedin.com/",
-                    "xing":"https://www.xing.com/",
-                    "github":"https://github.com/",
-                    "profile-image":"/assets/cat2.jpg"
+                    "linkedin":"https://www.linkedin.com/in/dan-lew/",
+                    "xing":"https://www.xing.com/profile/Dan_Lewis4/cv",
+                    "github":"https://github.com/dan-lew",
+                    "profile-image":"/assets/g1/dans.png"
                 },
                 {
-                    "name":"Rania",
+                    "name":"Rania Wittenberg",
                     "email":"rania@gmail.com",
-                    "linkedin":"https://www.linkedin.com/",
-                    "xing":"https://www.xing.com/",
-                    "github":"https://github.com/",
-                    "profile-image":"/assets/cat2.jpg"
+                    "linkedin":"https://linkedin.com/in/rania-wittenberg-45657692",
+                    "xing":"https://www.xing.com/profile/rania_wittenberg/cv",
+                    "github":"https://github.com/raniaw",
+                    "profile-image":"/assets/g1/rania.jpg"
                 },
                 {
-                    "name":"Mahdieh",
+                    "name":"Mahdieh Nasrabadi",
                     "email":"mahdie@gmail.com",
-                    "linkedin":"https://www.linkedin.com/",
-                    "xing":"https://www.xing.com/",
-                    "github":"https://github.com/",
-                    "profile-image":"/assets/cat2.jpg"
+                    "linkedin":"https://www.linkedin.com/in/mahdieh-nasrabadi-a50b7119b/",
+                    "xing":"https://www.xing.com/profile/Mahdieh_Nasrabadi/cv",
+                    "github":"https://github.com/mahdieh019",
+                    "profile-image":"/assets/g1/mahdieh.jpg"
                 }
             ],
             "pageImages":[
-                "/assets/g1/wp1.jpg",
+                "/assets/g1/wp1.png",
                 "/assets/g1/wp2.png",
                 "/assets/g1/wp3.png",
                 "/assets/g1/wp4.jpg"
@@ -43,10 +43,10 @@
             "front-image":"/assets/g2/wp1.png",
             "members":[
                 {
-                    "name":"Maria Waleska",
+                    "name":"Maria Waleska Melchert Cuevas",
                     "email":"waleska@gmail.com",
-                    "linkedin":"https://www.linkedin.com/",
-                    "xing":"https://www.xing.com/",
+                    "linkedin":"http://linkedin.com/in/maria-waleska-melchert-cuevas",
+                    "xing":"http://xing.com/profile/MariaWaleska_MelchertCuevas/cv",
                     "github":"https://github.com/",
                     "profile-image":"/assets/g2/Wal.png"
                 }
