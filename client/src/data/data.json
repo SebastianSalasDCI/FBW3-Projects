@@ -40,7 +40,7 @@
         {
             "name":"EstefiMakeUp",
             "link":"estefimakeup",
-            "front-image":"/assets/g1/wp1.jpg",
+            "front-image":"/assets/g2/wp1.png",
             "members":[
                 {
                     "name":"Maria Waleska",
@@ -48,12 +48,13 @@
                     "linkedin":"https://www.linkedin.com/",
                     "xing":"https://www.xing.com/",
                     "github":"https://github.com/",
-                    "profile-image":"/assets/cat2.jpg"
+                    "profile-image":"/assets/g2/Wal.png"
                 }
             ],
             "pageImages":[
+                "/assets/g2/wp1.png",
                 "/assets/g2/wp2.png",
-                "/assets/g2/wp4.jpg"
+                "/assets/g2/wp3.png"
             ]
         },
         {
