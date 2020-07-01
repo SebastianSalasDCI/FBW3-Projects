@@ -3,7 +3,7 @@
         {
             "name":"Food App",
             "link":"food-app",
-            "front-image":"/assets/cat.jpg",
+            "front-image":"/assets/g1/wp1.jpg",
             "members":[
                 {
                     "name":"Daniel Lewis",
@@ -40,7 +40,7 @@
         {
             "name":"EstefiMakeUp",
             "link":"estefimakeup",
-            "front-image":"/assets/cat.jpg",
+            "front-image":"/assets/g1/wp1.jpg",
             "members":[
                 {
                     "name":"Maria Waleska",
@@ -59,7 +59,7 @@
         {
             "name":"Scount",
             "link":"scount",
-            "front-image":"/assets/cat.jpg",
+            "front-image":"/assets/g1/wp1.jpg",
             "members":[
                 {
                     "name":"Wisam",
@@ -96,7 +96,7 @@
         {
             "name":"Event organization",
             "link":"event-org",
-            "front-image":"/assets/cat.jpg",
+            "front-image":"/assets/g1/wp1.jpg",
             "members":[
                 {
                     "name":"Romal",
