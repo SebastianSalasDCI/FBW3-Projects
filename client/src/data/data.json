@@ -1,13 +1,14 @@
 {
     "groups":[
         {
-            "name":"Food App",
-            "link":"food-app",
-            "front-image":"/assets/g1/wp1.png",
+            "name":"Food Reviews",
+            "link":"food-reviews",
+            "front-image":"/assets/g1/front.png",
+            "color":"fr",
             "members":[
                 {
                     "name":"Dan Lewis",
-                    "email":"dan@gmail.com",
+                    "email":"dan.lewis1803@gmail.com",
                     "linkedin":"https://www.linkedin.com/in/dan-lew/",
                     "xing":"https://www.xing.com/profile/Dan_Lewis4/cv",
                     "github":"https://github.com/dan-lew",
@@ -15,7 +16,7 @@
                 },
                 {
                     "name":"Rania Wittenberg",
-                    "email":"rania@gmail.com",
+                    "email":"rania_wittenberg@hotmail.com",
                     "linkedin":"https://linkedin.com/in/rania-wittenberg-45657692",
                     "xing":"https://www.xing.com/profile/rania_wittenberg/cv",
                     "github":"https://github.com/raniaw",
@@ -34,17 +35,20 @@
                 "/assets/g1/wp1.png",
                 "/assets/g1/wp2.png",
                 "/assets/g1/wp3.png",
-                "/assets/g1/wp4.jpg"
+                "/assets/g1/wp4.png",
+                "/assets/g1/wp5.png",
+                "/assets/g1/wp6.png"
             ]
         },
         {
             "name":"EstefiMakeUp",
             "link":"estefimakeup",
             "front-image":"/assets/g2/wp1.png",
+            "color":"em",
             "members":[
                 {
                     "name":"Maria Waleska Melchert Cuevas",
-                    "email":"waleska@gmail.com",
+                    "email":"waleskamelchert@gmail.com",
                     "linkedin":"http://linkedin.com/in/maria-waleska-melchert-cuevas",
                     "xing":"http://xing.com/profile/MariaWaleska_MelchertCuevas/cv",
                     "github":"https://github.com/walmamel",
@@ -60,65 +64,66 @@
         {
             "name":"Scount",
             "link":"scount",
-            "front-image":"/assets/g3/wp1.jpg",
+            "front-image":"/assets/g3/front.png",
+            "color":"sc",
             "members":[
                 {
-                    "name":"Wisam",
-                    "email":"wisam@gmail.com",
-                    "linkedin":"https://www.linkedin.com/",
-                    "xing":"https://www.xing.com/",
-                    "github":"https://github.com/",
-                    "profile-image":"/assets/cat2.jpg"
+                    "name":"Wisam Basheir",
+                    "email":"wisam.basheir@gmail.com",
+                    "linkedin":"https://www.linkedin.com/in/wisam-basheir/",
+                    "xing":"https://www.xing.com/profile/Wisam_Basheir/cv",
+                    "github":"https://github.com/wisam450",
+                    "profile-image":"/assets/g3/wissam.jpeg"
                 },
                 {
-                    "name":"Ahmad Suleiman",
-                    "email":"suleiman@gmail.com",
-                    "linkedin":"https://www.linkedin.com/",
-                    "xing":"https://www.xing.com/",
-                    "github":"https://github.com/",
-                    "profile-image":"/assets/cat2.jpg"
+                    "name":"Ahmed Suleman",
+                    "email":"ad.sulemann@gmail.com",
+                    "linkedin":"https://www.linkedin.com/in/ahmed-suleman-aba307190/",
+                    "github":"https://github.com/adsulemann",
+                    "profile-image":"/assets/g3/Suleman.jpg"
                 },
                 {
-                    "name":"Ahmad Nahalawi",
-                    "email":"nahalawi@gmail.com",
-                    "linkedin":"https://www.linkedin.com/",
-                    "xing":"https://www.xing.com/",
-                    "github":"https://github.com/",
-                    "profile-image":"/assets/cat2.jpg"
+                    "name":"Ahmad Nahlawi",
+                    "email":"ahmad.alnahlawi@icloud.com",
+                    "linkedin":"https://www.linkedin.com/in/ahmad-nahlawi/",
+                    "github":"https://github.com/AD-nah",
+                    "profile-image":"/assets/g3/nahalawi.jpeg"
                 }
             ],
             "pageImages":[
-                "/assets/g3/wp1.jpg",
+                "/assets/g3/wp1.png",
                 "/assets/g3/wp2.png",
                 "/assets/g3/wp3.png",
-                "/assets/g3/wp4.jpg"
+                "/assets/g3/wp4.png"
             ]
         },
         {
             "name":"Event organization",
             "link":"event-org",
-            "front-image":"/assets/g4/wp1.jpg",
+            "front-image":"/assets/g4/wp1.png",
+            "color":"eo",
             "members":[
                 {
                     "name":"Romal",
-                    "email":"romal@gmail.com",
-                    "linkedin":"https://www.linkedin.com/",
+                    "email":"Mohey.romal@gmail.com",
+                    "linkedin":"https://www.linkedin.com/in/mohaiyudinromal/",
                     "xing":"https://www.xing.com/",
-                    "github":"https://github.com/",
-                    "profile-image":"/assets/cat2.jpg"
+                    "github":"https://github.com/romal10",
+                    "profile-image":"/assets/g4/romal.jpg"
                 },
                 {
                     "name":"Amit",
-                    "email":"amit@gmail.com",
+                    "email":"tud120ar@gmail.com",
                     "linkedin":"https://www.linkedin.com/",
                     "xing":"https://www.xing.com/",
                     "profile-image":"/assets/cat2.jpg"
                 }
             ],
             "pageImages":[
-                "/assets/g4/wp2.png",
-                "/assets/g4/wp3.png",
-                "/assets/g4/wp4.jpg"
+                "/assets/g4/wp1.png",
+                "/assets/g4/wp4.png",
+                "/assets/g4/wp2.jpg",
+                "/assets/g4/wp3.jpg"
             ]
         }
     ]

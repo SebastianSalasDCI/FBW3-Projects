@@ -34,7 +34,7 @@ export default function NavbarComp() {
 
     return (
         
-    <Navbar type="dark" theme="dark" expand="md">
+    <Navbar className="navb" type="dark" theme="dark" expand="md">
         <NavLink to="/">
             <NavbarBrand >FBW3 Projects</NavbarBrand>
         </NavLink>

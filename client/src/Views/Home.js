@@ -20,14 +20,14 @@ export default function Home() {
     })
 
     return (
-        <div>
+        <div className="generalCont">
             <div className="titleCont">
-            <h1>Welcome to FBW3 Projects</h1>
+            <h3>Welcome to FBW3 Projects</h3>
             <h5>Here you will find a small description of the 
                 projects presented to you on Thurday 2nd of July 2020</h5>
             </div>
             
-            <Container>
+            <Container className="cardsContainer">
                 <Row>
                     {cards}
                 </Row>

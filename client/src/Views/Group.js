@@ -24,7 +24,7 @@ export default function Group(props) {
     let members = groupinfo[0].members.map(member => {
 
         return(
-                <Card key={member.name} className="cardClass">
+                <Card key={member.name} className="cardClassProf">
                     <CardImg className="profImg"
                     src={process.env.PUBLIC_URL +member["profile-image"]}/>
                     <CardBody>
@@ -35,14 +35,14 @@ export default function Group(props) {
                         : null}
 
                         {member.linkedin ? 
-                        <li><i class="fab fa-linkedin"></i> <a href={member.linkedin}>Linkedin</a></li>
+                        <li><i class="fab fa-linkedin"></i> <a target="blank" href={member.linkedin}>Linkedin</a></li>
                         : null}
                         
-                        {member.xing ? <li><i class="fab fa-xing-square"></i> <a href={member.xing}>Xing</a></li>
+                        {member.xing ? <li><i class="fab fa-xing-square"></i> <a target="blank" href={member.xing}>Xing</a></li>
                         :null}
 
                         {member.github ? 
-                        <li><i class="fab fa-github-square"></i> <a href={member.github}>Github</a></li>
+                        <li><i class="fab fa-github-square"></i> <a target="blank" href={member.github}>Github</a></li>
                         : null}
                     </ul>
                         
@@ -63,9 +63,9 @@ export default function Group(props) {
     })
 
     return (
-        <>
+        <div className="generalCont">
             <div className="titleCont">
-               <h1>{groupinfo[0].name}</h1> 
+               <h2 className={groupinfo[0].color}>{groupinfo[0].name}</h2> 
             </div>
             
             <Container>
@@ -80,7 +80,7 @@ export default function Group(props) {
                     </Col>
                 </Row>
             </Container>
-            
-        </>
+        </div>
+
     )
 }

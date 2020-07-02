@@ -1,6 +1,8 @@
 /* If you are editing this. First I'm sorry for the name of the classes
    Could have been better... Hope doesn't give you much headache */
 
+
+
 .main {
   padding-top: 10px;
   display: block;
@@ -20,12 +22,22 @@
   z-index: -1;   
 }
 
+.generalCont{
+  margin: 0 auto;
+  width: 65%;
+}
+
+.navb{
+  height: 45px;
+}
+
 .navlink{
   color: white;
 }
 
 .linkActive{
   font-weight: bold;
+  color: rgb(82, 82, 252);
 }
 
 .navItem{
@@ -38,8 +50,18 @@
   border-radius:2%;
 }
 
+.cardsContainer{
+  margin-top: 50px;
+}
+
 .cardClass{
   margin: 10px;
+}
+
+.cardClassProf{
+  margin: 10px;
+  width: 90%;
+  margin-bottom: 20px;
 }
 
 .projectTitle{
@@ -52,6 +74,23 @@
   color: black;
 }
 
+.fr{
+  color: rgb(207, 74, 174);
+}
+
+.em{
+  color: #b8aa67;
+}
+
+.sc{
+  color: rgb(39, 29, 83);
+}
+
+.eo{
+  color: rgb(212, 71, 28);
+}
+
+
 .cardHeader{
   /* text-align: center; */
   color: black;
@@ -59,10 +98,11 @@
 }
 
 .titleCont{
-  margin-top: 20px;
   color: gray;
+  font-weight: 200;
   text-align: center;
-
+  width: 80%;
+  margin: 40px auto;
 }
 
 .profImg{
@@ -72,5 +112,5 @@
 
 .titleSection{
   margin-top: 10px;
-  font-weight: bold;
+  font-weight: 400;
 }
