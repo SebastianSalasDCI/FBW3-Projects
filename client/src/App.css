@@ -114,3 +114,22 @@
   margin-top: 10px;
   font-weight: 400;
 }
+
+@media screen and (max-width: 800px) {
+  .titleCont {
+    margin-top: 200px;
+    width: 100%;
+  }
+
+  .main {
+    margin: 0 auto;
+  }
+  .navb{
+    height: auto;
+  }
+
+  .navItem{
+    margin: 10px;
+  }
+  
+}

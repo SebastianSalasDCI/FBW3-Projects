@@ -25,9 +25,12 @@ export default function Group(props) {
 
         return(
                 <Card key={member.name} className="cardClassProf">
-                    <CardImg className="profImg"
-                    src={process.env.PUBLIC_URL +member["profile-image"]}/>
-                    <CardBody>
+                        { member["profile-image"] ? 
+                        <CardImg className="profImg"
+                        src={process.env.PUBLIC_URL +member["profile-image"]}/>
+                        : null
+                        }
+                        <CardBody>
                     <h5>{member.name}</h5>
                     <ul style={{listStyleType: "none"}}>
                         {member.email ? 
